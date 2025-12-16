@@ -2,6 +2,7 @@
 
 <!--
 **TurcoN/TurcoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1164" height="652" alt="image" src="https://github.com/user-attachments/assets/e14f47b3-b710-4523-bec4-debde26c049b" />
 
 Here are some ideas to get you started:
 
